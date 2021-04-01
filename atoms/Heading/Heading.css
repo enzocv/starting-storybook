@@ -3,21 +3,21 @@
 }
 
 .color-default {
-	color: var(--black-color);
+	color: var(--colors-brand-regent-gray);
 }
 
 .color-primary {
-	color: var(--primary-color);
+	color: var(--colors-brand-medium-purple);
 }
 
 .size-md {
-	font-size: 21px;
+	font-size: var(--font-size-md);
 }
 
 .size-sm {
-	font-size: 18px;
+	font-size: var(--font-size-sm);
 }
 
 .size.xs {
-	font-size: 16px;
+	font-size: var(--font-size-xs);
 }

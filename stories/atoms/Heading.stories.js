@@ -19,10 +19,10 @@ Primary.args = {
 	color: 'primary',
 };
 
-export const ExtraSmall = Template.bind({});
-ExtraSmall.args = {
+export const Medium = Template.bind({});
+Medium.args = {
 	label: 'Heading',
-	size: 'xs',
+	size: 'md',
 };
 
 export const Small = Template.bind({});
@@ -31,8 +31,8 @@ Small.args = {
 	size: 'sm',
 };
 
-export const Medium = Template.bind({});
-Medium.args = {
+export const ExtraSmall = Template.bind({});
+ExtraSmall.args = {
 	label: 'Heading',
-	size: 'md',
+	size: 'xs',
 };
