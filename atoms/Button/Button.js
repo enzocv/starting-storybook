@@ -18,7 +18,7 @@ const Button = ({ label, type }) => {
 
 Button.propTypes = {
 	label: PropTypes.node.isRequired,
-	type: PropTypes.oneOf[('primary', 'secondary')],
+	type: PropTypes.oneOf[('primary', 'secondary', 'tertiary')],
 };
 
 export default Button;

@@ -25,3 +25,9 @@ Secondary.args = {
 	label: 'Button secondary',
 	type: 'secondary',
 };
+
+export const Tertiary = Template.bind({});
+Tertiary.args = {
+	label: ' Button tertiary',
+	type: 'tertiary',
+};

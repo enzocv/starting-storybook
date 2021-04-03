@@ -1,13 +1,13 @@
 .heading {
-	line-height: 1.25;
+	line-height: var(--line-height-tight);
 }
 
 .color-default {
-	color: var(--colors-brand-regent-gray);
+	color: var(--colors-font-muted);
 }
 
 .color-primary {
-	color: var(--colors-brand-medium-purple);
+	color: var(--colors-primary);
 }
 
 .size-md {
