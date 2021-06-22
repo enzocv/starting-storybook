@@ -1,0 +1,10 @@
+.icon-height {
+	height: 46px;
+}
+
+.container-icon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 10px;
+}
